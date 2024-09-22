@@ -1,0 +1,2 @@
+# sanasto
+Tiedonhallinnan sanasto
